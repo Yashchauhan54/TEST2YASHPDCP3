@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsaoKfenD2c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\test2pdyash\\test2pdyash.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
